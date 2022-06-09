@@ -2,8 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\src",
-    "\\src\\app"
+    "\\src\\app",
+    "\\src\\app\\components",
+    "\\src\\app\\components\\add-task",
+    "\\src\\app\\service"
   ],
-  "SelectedNode": "\\src\\app\\mock-tasks.ts",
+  "SelectedNode": "\\src\\app\\components\\add-task\\add-task.component.ts",
   "PreviewInSolutionExplorer": false
 }
