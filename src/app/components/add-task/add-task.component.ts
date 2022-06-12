@@ -1,5 +1,5 @@
 import { Component, OnInit, Output, EventEmitter} from '@angular/core';
-import { Task } from '../../Task'
+import { Task } from '../../Task';
 import { UiService } from 'src/app/service/ui.service';
 import { Subscription } from 'rxjs';
 

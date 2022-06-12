@@ -23,6 +23,12 @@
       "day": "Mañana",
       "reminder": true,
       "id": 4
+    },
+    {
+      "text": "Tarea 2",
+      "day": "Pasado Mañana",
+      "reminder": true,
+      "id": 5
     }
   ]
 }
